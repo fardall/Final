@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/encode_sans_reguler</item>
+    </style>
+
+    <style name="TextView.Tab">
+        <item name="fontFamily">@font/encode_sans_medium</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/status_bar</item>
+    </style>
+
+    <style name="TextView.Medium">
+        <item name="android:fontFamily">@font/encode_sans_medium</item>
+    </style>
+
+    <style name="TextView.Bold">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextView.Medium.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextView.Medium.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextView.Bold.Black">
+        <item name="android:fontFamily">@font/encode_sans_bold</item>
+    </style>
+
+    <style name="TextView.Bold.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextView.BlackTwo">
+        <item name="android:textColor">@color/black_two</item>
+    </style>
+
+    <style name="TextView.Black">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextView.White">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextView.BlackTwo.Search">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TitleToolbar">
+        <item name="android:fontFamily">@font/encode_sans_bold</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
